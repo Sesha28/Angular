@@ -15,6 +15,8 @@ services dance
 Login 3 ways	
 --------------------------------------------
 Ajax
+  1. Post data
+  2. Add custom header for one request
 --------------------------------------------
 RxJS
 -------------------------------------------
